@@ -1,1 +1,1 @@
-# hello-world
+trying to understand the github
